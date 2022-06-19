@@ -3,7 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { DiscoverComponent } from './discover/discover.component';
 import { ExploreComponent } from './explore/explore.component';
 
-const routes: Routes = [
+const routes: Routes = [ 
   {path: 'discover', component: DiscoverComponent},
   {path: 'explore', component: ExploreComponent}
 ];
