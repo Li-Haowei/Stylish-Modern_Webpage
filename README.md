@@ -8,3 +8,5 @@ The Goal is to make a <b>modern</b> and <b>stylish</b> functional webpage
 <img style="width:100vh;height:auto;" src = "angularDemo.gif" />
 <h2>Animated Gradient implemtation</h2>
 <img style="width:100vh;height:auto;" src = "stylishwebg.gif" />
+<h2>Lighting implemtation</h2>
+<img style="width:100vh;height:auto;" src = "stylishwebgl.gif" />
